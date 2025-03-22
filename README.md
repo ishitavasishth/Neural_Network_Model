@@ -2,8 +2,7 @@
 
 # 🧠 Handwritten Digit Recognition using MNIST
 
-This project demonstrates a simple yet effective approach to recognizing handwritten digits using the MNIST dataset. Built entirely in Google Colab using TensorFlow and Keras — **no API keys or external dependencies required**.
-
+This project demonstrates a simple yet effective approach to recognizing handwritten digits using the MNIST dataset. Built entirely in Google Colab using TensorFlow and Keras 
 ## 🚀 What’s Inside
 
 - Load and preprocess the MNIST dataset
@@ -24,7 +23,6 @@ Upload your own image of a handwritten digit (preferably white digit on black ba
 - TensorFlow / Keras
 - Matplotlib
 - Scikit-learn
-- Google Colab
 
 
 
